@@ -38,13 +38,13 @@ The frontend of this project is based on the [CTF-Website-Template-2020](https:/
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Visual Studio or Visual Studio Code installed along with the .NET SDK.
+   Make sure you have Visual Studio installed along with the ASP.NET.
    
 3. **Build the Project**:
-   Open the project in your IDE and build it to restore the necessary packages and dependencies.
+   Open the project in your Visual Studio and build it to restore the necessary packages and dependencies.
 
 4. **Run the Project**:
-   Start the project using your IDE. This will launch the local development server and open the application in your default web browser.
+   Start the project using your Visual Studio. This will launch the local development server and open the application in your default web browser.
 
 
 ## Acknowledgements
