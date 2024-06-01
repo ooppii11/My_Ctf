@@ -44,7 +44,7 @@ The frontend of this project is based on the [CTF-Website-Template-2020](https:/
    Open the project in your Visual Studio and build it to restore the necessary packages and dependencies.
 
 4. **Run the Project**:
-   Start the project using your Visual Studio. This will launch the local development server and open the application in your default web browser.
+   Start the project using your Visual Studio or your preferred IDE. This will launch the local development server and open the application in your default web browser.
 
 
 ## Acknowledgements
