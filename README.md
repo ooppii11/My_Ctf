@@ -46,30 +46,10 @@ The frontend of this project is based on the [CTF-Website-Template-2020](https:/
 4. **Run the Project**:
    Start the project using your IDE. This will launch the local development server and open the application in your default web browser.
 
-## Configuration
-
-Ensure that your database connection strings and other configurations are properly set in the `appsettings.json` file. You may need to create a local database or adjust the configuration to point to your database server.
-
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
 - Thanks to ashawe for the [CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020), which served as the base for the frontend of this project.
-
-## Contact
-
-For any questions or feedback, please open an issue on the repository or contact the project maintainer at your-email@example.com.
 
 ---
 
