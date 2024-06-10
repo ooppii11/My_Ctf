@@ -54,4 +54,4 @@ The frontend of this project is based on the [CTF-Website-Template-2020](https:/
 
 ---
 
-Thank you for checking out My_Ctf! We hope this platform helps you in creating engaging and secure CTF challenges.
+Thank you for checking out My_Ctf! I hope this platform helps you in creating engaging and secure CTF challenges.
