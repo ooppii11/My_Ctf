@@ -7,13 +7,15 @@ My_Ctf is a full-stack school project developed as a Capture The Flag (CTF) chal
 ## Features
 
 - **User Registration**: Secure user registration with encrypted passwords.
-- **Challenge Management**: Admin interface for managing CTF challenges.
 - **Security Measures**:
   - Password and flag hashing
   - SQL parameterization to prevent SQL injection
   - Strong password enforcement via regular expressions (regex)
   - ASP.NET built-in protections against Cross-Site Scripting (XSS) attacks
   - Whitelist against Arbitrary File Read and Directory Traversal Attack
+
+## Future Features
+- **Challenge Management**: Admin interface for managing CTF challenges.
 
 ## Frontend Template
 
