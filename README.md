@@ -29,7 +29,6 @@ The frontend of this project is based on the [CTF-Website-Template-2020](https:/
 
 ### Frontend
 - **Languages**: HTML, CSS, JavaScript
-- **Framework**: ASPX
 
 ## Setup and Installation
 
